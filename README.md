@@ -1,4 +1,5 @@
-# CodeWars
+ ![image](https://www.codewars.com/users/CassioJhones/badges/small)
+
 
 ##  Jaden Casing Strings
 
@@ -50,3 +51,4 @@ public static class JadenCase
     return fraseCompleta.Trim();
   }
 }
+<!--  ![Codewars](https://github.r2v.ch/codewars?user=CassioJhones&stroke=%23BB432C)-->
